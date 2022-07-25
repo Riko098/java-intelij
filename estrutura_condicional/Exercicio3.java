@@ -20,7 +20,7 @@ public class Exercicio3 {
 			}	
 		} catch (Exception e) {
 			// TODO: handle exception
-			System.out.println("Escreva um numero seu FILHO DA PUTA" );
+			System.out.println("Escreva um numero" );
 		}
 		
 		sc.close();
