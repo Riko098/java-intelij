@@ -19,7 +19,7 @@ public class Exercicio1 {
 			}
 
 		} catch (Exception e) {
-			System.out.println("VC É VIADO DESGRAÇA ????? RPZ....");
+			System.out.println("numero errado");
 		}
 
 
